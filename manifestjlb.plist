@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>ÏÂÔØÊ±´óÍ¼(·Ç±ØÌî)</string>
+					<string>ä¸‹è½½æ—¶å¤§å›¾(éå¿…å¡«)</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,21 +27,21 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>ÏÂÔØÊ±Ğ¡Í¼(·Ç±ØÌî)</string>
+					<string>ä¸‹è½½æ—¶å°å›¾(éå¿…å¡«)</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocos2dx.ZhongYou</string>
+				<string>org.cocos2dx.YouXi532</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>App(¸±±êÌâ)</string>
+				<string>App(å‰¯æ ‡é¢˜)</string>
 				<key>title</key>
-				<string>532ÆåÅÆ</string>
+				<string>532æ£‹ç‰Œ</string>
 			</dict>
 		</dict>
 	</array>
