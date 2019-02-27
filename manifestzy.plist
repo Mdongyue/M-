@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://xz.game5586.com/down/zhongyouqipai.ipa</string>
+					<string>http://1hxz.ysjt99.com/down/1haoqipai.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>org.cocos2dx.ZhongYou</string>
+				<string>org.cocos2dx.YiHaoQiPai</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
